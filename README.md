@@ -16,7 +16,9 @@ $  directy run inscription
 
 === Simple Encryption/Decryption Demo ===
   Choose mode (enc/dec): enc
+ 
   Enter your key (numbers/symbols/words allowed): hy@1
+ 
   Enter text to encrypt: helo user
 
  Encrypted Base64:
@@ -28,7 +30,9 @@ $   directy run decryption
 
 == Simple Encryption/Decryption Demo ===
 Choose mode (enc/dec): dec
+
 Enter your key (numbers/symbols/words allowed): hy@1
+
 Enter Base64 ciphertext: iHAyrPKRW0v1ycYEX3Zd3S4MizuNT7NqIQ==
 
  Decrypted text:
